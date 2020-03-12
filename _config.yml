@@ -2,7 +2,7 @@ title: IRIS
 
 description: > # this means to ignore newlines until "baseurl:"
   쉽고 편리한 빅데이터 분석을 지원합니다.
-baseurl: "https://guhyn.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://guhyn.github.io/"
 author: guhyn
 
